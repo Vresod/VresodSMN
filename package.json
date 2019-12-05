@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vresod/VresodSMN-.git"
+    "url": "git+https://github.com/Vresod/VresodSMN.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Vresod",
+  "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Vresod/VresodSMN-/issues"
+    "url": "https://github.com/Vresod/VresodSMN/issues"
   },
-  "homepage": "https://github.com/Vresod/VresodSMN-#readme"
+  "homepage": "https://github.com/Vresod/VresodSMN#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
